@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Facundo Ramirez. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**facuuurz/facuuurz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la **Facultad de Ciencia y Tecnología** de la **Universidad de Entre Ríos (UADER)**. Actualmente estoy en mi tercer año de la carrera.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante universitario comprometido con el aprendizaje constante.
+- 📚 Actualmente realizando un curso de **Desarrollo Full Stack** para expandir mis conocimientos.
+- ⚽ Apasionado por el fútbol.
+- 🤝 Abierto a crear proyectos y colaborar en otros.
+- 🌐 Interesado en el desarrollo **frontend y backend** (proyectos full stack).
+
+
+
+## 🚀 Tecnologías que manejo
+
+#### 🔧 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+#### 🖥️ Frameworks
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📈 Estadisticas de GitHub
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facuuurz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuuurz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
+## 🌐 Redes
+
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facuurz?igsh=N3ZqdnNqZTIxeDE5&utm_source=qr)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ramirez-795a52296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
+
+
+Gracias por visitar mi perfil 🙌 ¡Te invito a explorar mis repositorios y seguirme para ver futuros proyectos!
+
+
