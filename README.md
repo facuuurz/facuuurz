@@ -24,6 +24,8 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 
 #### 🖥️ Frameworks
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+
 
 ## 📈 Estadisticas de GitHub
 
@@ -39,9 +41,15 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facuurz?igsh=N3ZqdnNqZTIxeDE5&utm_source=qr)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ramirez-795a52296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
+##
+<p align="center">
+  🙌 ¡Gracias por pasarte por mi perfil de GitHub! 🙌<br>
+  Si te gustó lo que hago y querés que colaboremos en un proyecto,
+  no dudes en contactarme. ¡Estoy siempre abierto a nuevas ideas! 🚀
+</p>
 
 
 
-Gracias por visitar mi perfil 🙌 ¡Te invito a explorar mis repositorios y seguirme para ver futuros proyectos!
+
 
 
