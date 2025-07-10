@@ -3,13 +3,19 @@
 Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la **Facultad de Ciencia y Tecnología** de la **Universidad de Entre Ríos (UADER)**. Actualmente estoy en mi tercer año de la carrera.
 
 
-## 👨‍💻 Sobre mi
-- 🎓 Estudiante universitario comprometido con el aprendizaje constante.</li>
-- 📚 Actualmente realizando un curso de <strong>Desarrollo Full Stack</strong> para expandir mis conocimientos.</li>
-- ⚽ Apasionado por el fútbol.</li>
-- 🤝 Abierto a crear proyectos y colaborar en otros.</li>
-- 🌐 Interesado en el desarrollo <strong>frontend y backend</strong> (proyectos full stack).</li>
+##  **👨‍💻 Sobre mi**
 
+<picture> <img align="right" src="https://media.tumblr.com/09e3faf561e5aa96e8ee8c725f38741c/tumblr_mtxdbaknqH1sjb7zro1_400.gif" width = 250px></picture>
+
+<br>
+
+- 🎓 Estudiante universitario comprometido con el aprendizaje constante.
+- 📚 Actualmente realizando un curso de <strong>Desarrollo Full Stack</strong> para expandir mis conocimientos.
+- ⚽ Apasionado por el fútbol.
+- 🤝 Abierto a crear proyectos y colaborar en otros.
+- 🌐 Interesado en el desarrollo <strong>frontend y backend</strong> (proyectos full stack).
+
+<br><br><br>
 
 ## 🚀 Tecnologías que manejo
 
