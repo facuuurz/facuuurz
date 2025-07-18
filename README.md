@@ -47,7 +47,7 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facuurz?igsh=N3ZqdnNqZTIxeDE5&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ramirez-795a52296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-## 📨 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘
+## 📨 Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundorz2003@gmail.com)
 
