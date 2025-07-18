@@ -14,6 +14,9 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 - ⚽ Apasionado por el fútbol.
 - 🤝 Abierto a crear proyectos y colaborar en otros.
 - 🌐 Interesado en el desarrollo <strong>frontend y backend</strong> (proyectos full stack).
+- 🧠 Me gusta entender cómo funcionan las cosas y buscar soluciones creativas.
+- 🗣️ Buen comunicador, disfruto compartir lo que aprendo y aprender de los demás.
+- ✨ En busca de oportunidades que me permitan crecer tanto personal como profesionalmente.
 
 <br><br><br>
 
