@@ -18,7 +18,7 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 - 🗣️ Buen comunicador, disfruto compartir lo que aprendo y aprender de los demás.
 - ✨ En busca de oportunidades que me permitan crecer tanto personal como profesionalmente.
 
-<br><br><br>
+<br>
 
 ## 🚀 Tecnologías que manejo
 
