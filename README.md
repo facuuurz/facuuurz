@@ -57,13 +57,6 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 
-## 📈 Estadisticas de GitHub
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=facuuurz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuuurz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 🌐 Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/facuurz?igsh=N3ZqdnNqZTIxeDE5&utm_source=qr)
