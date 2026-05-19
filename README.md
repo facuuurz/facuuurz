@@ -12,7 +12,9 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 - 🧠 Me gusta entender cómo funcionan las cosas y buscar soluciones creativas.
 - ✨ En busca de oportunidades que me permitan crecer tanto personal como profesionalmente.
 
-<br>
+<br><br><br>
+
+
 
 ## 🚀 Tecnologías que manejo
 
