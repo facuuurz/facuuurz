@@ -6,8 +6,7 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 
 <picture><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVoY2owZm9lYmN4OWFrNmt2eGIyejBwNXNlZTV3MjJteTdsOGZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/88iYsvbegSUn9bSTF8/giphy.gif" width="250px"></picture>
 - 🎓 Estudiante universitario comprometido con el aprendizaje constante.
-- 💻 Desarrollado.
-- 🛠️ Trabajo en infraestructura de TI: administración de sistemas, seguridad y monitoreo.
+- 💻 Programador fullstack.
 - 🤖 Me gusta integrar IA en productos reales.
 - 🤝 Abierto a crear proyectos y colaborar en otros.
 - 🧠 Me gusta entender cómo funcionan las cosas y buscar soluciones creativas.
