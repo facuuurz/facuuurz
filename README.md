@@ -4,14 +4,11 @@ Estudiante de la **Licenciatura en Análisis de Sistemas de Información** en la
 
 ## **👨‍💻 Sobre mi**
 
-<picture> <img align="right" src="[https://media.tumblr.com/09e3faf561e5aa96e8ee8c725f38741c/tumblr_mtxdbaknqH1sjb7zro1_400.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVoY2owZm9lYmN4OWFrNmt2eGIyejBwNXNlZTV3MjJteTdsOGZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/88iYsvbegSUn9bSTF8/giphy.gif)" width = 250px></picture>
-<br>
-
+<picture><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVoY2owZm9lYmN4OWFrNmt2eGIyejBwNXNlZTV3MjJteTdsOGZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/88iYsvbegSUn9bSTF8/giphy.gif" width="250px"></picture>
 - 🎓 Estudiante universitario comprometido con el aprendizaje constante.
 - 💻 Desarrollado.
 - 🛠️ Trabajo en infraestructura de TI: administración de sistemas, seguridad y monitoreo.
 - 🤖 Me gusta integrar IA en productos reales.
-- ⚽ Apasionado por el fútbol.
 - 🤝 Abierto a crear proyectos y colaborar en otros.
 - 🧠 Me gusta entender cómo funcionan las cosas y buscar soluciones creativas.
 - ✨ En busca de oportunidades que me permitan crecer tanto personal como profesionalmente.
